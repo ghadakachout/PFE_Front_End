@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Fira Sans', sans-serif;
+    height: 100vh;
+    
+}
+.site-layout-background{
+background-color: rgb(241, 241, 241) !important;
+}
+.ant-layout-header.site-layout-background{
+    background-color: black !important;
+}

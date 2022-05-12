@@ -1,0 +1,30 @@
+img{
+    padding:0%;
+    margin: 0%;
+}
+.ant-page-header{
+    background-color: ghostwhite !important;
+    height: 10%;
+}
+div.ant-page-header-heading{
+    margin-top: -1.25%;
+}
+th.ant-table-cell{
+    background-color:ghostwhite!important;
+    color: black !important;
+    font-size:16px;
+    padding: 7px;
+}
+.ant-btn-primary {
+border: none;
+background-color: darkgrey;
+}
+.ant-btn.ant-btn-sm:hover{
+    background-color: dimgray !important;
+    color: gainsboro !important;
+    border:none;
+}
+
+div.ant-popover-arrow{
+    margin: 100px 100px 100px;
+}
